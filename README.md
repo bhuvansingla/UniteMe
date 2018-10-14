@@ -9,4 +9,9 @@ If they find the person that’s a great success.
 If not they can create a entry for the person.
 People can also search for themselves to see if someone is finding them.
 
+
+People/NGO's can also post/click the photos of people.
+And people can search for there family and friends by uploading a photograph.
+The two photographs are matched by Microsoft's Face API.
+
 That's 'UniteMe'! :)
